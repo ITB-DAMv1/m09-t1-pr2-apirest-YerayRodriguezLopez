@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\model\\favgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\model\\favgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\controllers\\favgamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\model\\favgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\model\\favgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\dtos\\favgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\dtos\\favgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|c:\\users\\isard\\documents\\programacion\\m09-t1-pr2-apirest-yerayrodriguezlopez\\t1-pr2\\t1-pr2-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEC4BC6F-6BDC-4184-96C2-9EE3B023C84D}|T1-PR2-API\\T1-PR2-API.csproj|solutionrelative:t1-pr2-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "20250403101710_Yeray.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Migrations\\20250403101710_Yeray.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\Migrations\\20250403101710_Yeray.cs",
@@ -82,12 +82,11 @@
               "RelativeToolTip": "T1-PR2-API\\Migrations\\20250403101710_Yeray.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T10:17:10.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T10:17:10.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "FavGameDTO.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\DTOs\\FavGameDTO.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\DTOs\\FavGameDTO.cs",
@@ -95,12 +94,11 @@
               "RelativeToolTip": "T1-PR2-API\\DTOs\\FavGameDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T09:50:11.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T09:50:11.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "FavGamesController.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Controllers\\FavGamesController.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\Controllers\\FavGamesController.cs",
@@ -108,12 +106,11 @@
               "RelativeToolTip": "T1-PR2-API\\Controllers\\FavGamesController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAiwFgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T09:51:40.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T09:51:40.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FavGame.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Model\\FavGame.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\Model\\FavGame.cs",
@@ -126,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\DTOs\\LoginDTO.cs",
@@ -139,20 +136,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Controllers\\UserController.cs",
               "RelativeToolTip": "T1-PR2-API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA5wEYAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T07:47:42.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\DTOs\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\DTOs\\RegisterDTO.cs",
@@ -160,25 +157,24 @@
               "RelativeToolTip": "T1-PR2-API\\DTOs\\RegisterDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T07:46:19.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T07:46:19.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Model\\User.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\Model\\User.cs",
               "ToolTip": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Model\\User.cs",
               "RelativeToolTip": "T1-PR2-API\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T07:43:13.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "GamesController.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\Controllers\\GamesController.cs",
@@ -186,12 +182,11 @@
               "RelativeToolTip": "T1-PR2-API\\Controllers\\GamesController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAA9wCoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T07:17:09.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T07:17:09.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GameDTO.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\DTOs\\GameDTO.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\DTOs\\GameDTO.cs",
@@ -199,12 +194,11 @@
               "RelativeToolTip": "T1-PR2-API\\DTOs\\GameDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T07:16:30.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T07:16:30.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Model\\Game.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\Model\\Game.cs",
@@ -212,12 +206,11 @@
               "RelativeToolTip": "T1-PR2-API\\Model\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T07:12:09.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T07:12:09.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\appsettings.json",
               "RelativeDocumentMoniker": "T1-PR2-API\\appsettings.json",
@@ -225,12 +218,11 @@
               "RelativeToolTip": "T1-PR2-API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-02T07:08:32.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T07:08:32.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "T1-PR2-API\\Context\\AppDbContext.cs",
@@ -238,8 +230,7 @@
               "RelativeToolTip": "T1-PR2-API\\Context\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T07:02:43.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T07:02:43.133Z"
             },
             {
               "$type": "Document",
@@ -255,13 +246,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "T1-PR2-API\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\isard\\Documents\\Programacion\\m09-t1-pr2-apirest-YerayRodriguezLopez\\T1-PR2\\T1-PR2-API\\Properties\\launchSettings.json",
               "RelativeToolTip": "T1-PR2-API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-02T06:51:27.684Z",
               "EditorCaption": ""
