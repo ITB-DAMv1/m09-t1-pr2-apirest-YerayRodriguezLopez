@@ -1,0 +1,9 @@
+﻿namespace T1_PR2_API.Model
+{
+    public class FavGame
+    {
+        public int Id { get; set; }
+        public int UserId { get; set; }
+        public int GameId { get; set; }
+    }
+}
