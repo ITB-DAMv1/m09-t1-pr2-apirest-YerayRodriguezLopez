@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "O1qajM3ybH8e7tsWJty8hRccvjBggm7e39XCuzkhuhw=",
+  "Source": "T1-PR2-API",
+  "BasePath": "_content/T1-PR2-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
