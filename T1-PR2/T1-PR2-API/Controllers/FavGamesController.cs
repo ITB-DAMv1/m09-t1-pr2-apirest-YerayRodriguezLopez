@@ -25,7 +25,7 @@ namespace T1_PR2_API.Controllers
             List<FavGame> favGamesList = new List<FavGame>();
             foreach (var favGame in favGames)
             {
-                if (favGame.UserId == user.Id)
+                if (favGame.UserId == user.MyId)
                 {
                     favGamesList.Add(new FavGame
                     {

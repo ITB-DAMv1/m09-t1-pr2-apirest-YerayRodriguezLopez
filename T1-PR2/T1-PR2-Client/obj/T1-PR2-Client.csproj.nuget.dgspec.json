@@ -50,9 +50,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.Extensions.Identity.Core": {
+            "Microsoft.AspNetCore.Authentication": {
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[2.3.0, )"
             }
           },
           "imports": [
