@@ -1,0 +1,37 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+	<img src="~/itbgamejamlogo.png" />
+</div>
+
+<h2>Ranking</h2>
+
+@if (Model.Games is not null)
+{
+	<table class="table">
+		<thead>
+		<tr>
+			<th>Title</th>
+			<th>Developers</th>
+			<th>Votes</th>
+		</tr>
+		</thead>
+		<tbody>
+		@foreach (var game in Model.Games) 
+		{
+			<tr>
+				<td>
+					<a asp-page="/GameDetail" asp-route-id="@game.Id">@game.Title</a>
+				</td>
+				<td>@game.DeveloperTeamName</td>
+				<td>@game.VoteCount</td>
+				
+			</tr>
+		}
+		</tbody>
+	</table>
+}

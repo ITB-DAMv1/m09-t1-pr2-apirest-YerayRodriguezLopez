@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>T1PR2-Client</name>
+    </assembly>
+    <members>
+        <member name="T:T1PR2_Client.Pages.ErrorModel">
+            <summary>
+            Represents the error page model for handling and displaying error information.
+            </summary>
+        </member>
+        <member name="P:T1PR2_Client.Pages.ErrorModel.RequestId">
+            <summary>
+            Gets or sets the request ID associated with the current error.
+            </summary>
+        </member>
+        <member name="P:T1PR2_Client.Pages.ErrorModel.ShowRequestId">
+            <summary>
+            Gets a value indicating whether the request ID should be shown.
+            </summary>
+        </member>
+        <member name="M:T1PR2_Client.Pages.ErrorModel.#ctor(Microsoft.Extensions.Logging.ILogger{T1PR2_Client.Pages.ErrorModel})">
+            <summary>
+            Initializes a new instance of the <see cref="T:T1PR2_Client.Pages.ErrorModel"/> class.
+            </summary>
+            <param name="logger">The logger instance for logging error details.</param>
+        </member>
+        <member name="M:T1PR2_Client.Pages.ErrorModel.OnGet">
+            <summary>
+            Handles GET requests to the error page.
+            </summary>
+        </member>
+        <member name="T:T1PR2_Client.Program">
+            <summary>
+            Main class for the ASP.NET Core application.
+            This class contains the entry point for the application.
+            It is responsible for configuring and running the web application.
+            </summary>
+        </member>
+        <member name="M:T1PR2_Client.Program.Main(System.String[])">
+            <summary>
+            Main method for the ASP.NET Core application.
+            This method is the entry point of the application.
+            It sets up the web application, configures services, and runs the application.
+            It includes setting up the configuration, services, middleware, and routing.
+            It also includes setting up authentication and session management.
+            This method is responsible for starting the application and handling incoming requests.
+            It is the main entry point for the application and is called when the application starts.
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+    </members>
+</doc>

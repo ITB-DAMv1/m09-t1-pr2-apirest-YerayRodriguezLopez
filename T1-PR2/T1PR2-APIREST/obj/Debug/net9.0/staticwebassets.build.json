@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bUaM7qZkJmg3keTB9IOUx5TSzD9bQoOUP8Rz7T0sAV0=",
+  "Source": "T1PR2-APIREST",
+  "BasePath": "_content/T1PR2-APIREST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,41 @@
+﻿@page  
+@model T1PR2_Client.Pages.UsersXatModel  
+@{  
+   ViewData["Title"] = "User Chat";  
+   var displayName = User.Identity?.Name ?? "Unknown User";  
+}  
+<h3>Welcome to the chat, @Model.DisplayName!</h3>  
+
+<label for="message">Message:</label>  
+<input id="message" placeholder="Write a message" />  
+<button onclick="sendMessage()">Send</button>  
+
+<ul id="messages"></ul>  
+
+@section Scripts {  
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>  
+
+   <script>  
+       const connection = new signalR.HubConnectionBuilder()  
+           .withUrl("https://localhost:7215/Chat")  
+           .withAutomaticReconnect()  
+           .build();  
+
+       connection.on("ReceiveMessage", (user, message) => {  
+           const entry = document.createElement("li");  
+           entry.textContent = `${user}: ${message}`;  
+           document.getElementById("messages").appendChild(entry);  
+       });  
+
+       connection.start()  
+           .then(() => console.log("Connected to SignalR"))  
+           .catch(err => console.error("Connection error:", err));  
+
+       function sendMessage() {  
+           const user = "@Model.DisplayName";  
+           const message = document.getElementById("message").value;  
+           connection.invoke("SendMessage", user, message)  
+               .catch(err => console.error("Error sending message:", err));  
+       }  
+   </script>  
+}
