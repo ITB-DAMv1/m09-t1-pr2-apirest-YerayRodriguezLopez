@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>T1PR2-APIREST</name>
+    </assembly>
+    <members>
+        <member name="T:T1PR2_APIREST.Migrations.Final">
+            <inheritdoc />
+        </member>
+        <member name="M:T1PR2_APIREST.Migrations.Final.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:T1PR2_APIREST.Migrations.Final.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:T1PR2_APIREST.Migrations.Final.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:T1PR2_APIREST.Migrations.Final1">
+            <inheritdoc />
+        </member>
+        <member name="M:T1PR2_APIREST.Migrations.Final1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:T1PR2_APIREST.Migrations.Final1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:T1PR2_APIREST.Migrations.Final1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:T1PR2_APIREST.Models.FavGames">
+            <summary>
+            Represents a vote in the system.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.FavGames.Id">
+            <summary>
+            Gets or sets the unique identifier for the vote.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.FavGames.UserId">
+            <summary>
+            Gets or sets the identifier of the user who cast the vote.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.FavGames.User">
+            <summary>
+            Gets or sets the user who cast the vote.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.FavGames.GameId">
+            <summary>
+            Gets or sets the identifier of the game associated with the vote.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.FavGames.Game">
+            <summary>
+            Gets or sets the game associated with the vote.
+            </summary>
+        </member>
+        <member name="T:T1PR2_APIREST.Models.Game">
+            <summary>
+            Represents a game entity with details such as title, description, developer team name, and associated votes.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.Game.Id">
+            <summary>
+            Gets or sets the unique identifier for the game.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.Game.Title">
+            <summary>
+            Gets or sets the title of the game.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.Game.Description">
+            <summary>
+            Gets or sets the description of the game.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.Game.DeveloperTeamName">
+            <summary>
+            Gets or sets the name of the developer team.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.Game.ImageUrl">
+            <summary>
+            Gets or sets the URL of the game's image.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.Game.Votes">
+            <summary>
+            Gets or sets the collection of votes associated with the game.
+            </summary>
+        </member>
+        <member name="T:T1PR2_APIREST.Models.User">
+            <summary>
+            Represents a user in the system, inheriting from IdentityUser.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.User.DisplayName">
+            <summary>
+            Gets or sets the display name of the user.
+            </summary>
+        </member>
+        <member name="P:T1PR2_APIREST.Models.User.Votes">
+            <summary>
+            Gets or sets the collection of votes associated with the user.
+            </summary>
+        </member>
+        <member name="T:T1PR2_APIREST.Program">
+            <summary>
+            The main entry point for the T1PR2 API REST application.
+            </summary>
+        </member>
+        <member name="M:T1PR2_APIREST.Program.Main(System.String[])">
+            <summary>
+            The main method that starts the application.
+            </summary>
+            <param name="args">Command-line arguments.</param>
+        </member>
+    </members>
+</doc>
